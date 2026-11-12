@@ -73,3 +73,4 @@ This test case can be used to:
 - Verify Bun's dependency resolution behavior
 - Report potential bugs in Bun's filtered installation feature
 - Understand the differences between full and filtered installations with frozen lockfiles
+
